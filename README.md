@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Lorry Brossard
-## _Junior Full-Stack Web Developer_
+# <p align='center'> 👋 Hi, I’m Lorry Brossard </p>
+## <p align='center'> _Junior Full-Stack Web Developer_ </p>
 
 ### 🌱 About me
 - I recently completed a 9-week intensive Web Development bootcamp at Le Wagon Montreal, gaining hands-on experience in back-end and front-end development technologies : Ruby, Ruby on Rails, JavaScript, HTML, CSS, Bootstrap, SQL, Git, GitHub and Heroku.
