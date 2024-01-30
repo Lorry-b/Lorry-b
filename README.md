@@ -5,7 +5,7 @@
 - I recently completed a 9-week intensive Web Development bootcamp at Le Wagon Montreal, gaining hands-on experience in back-end and front-end development technologies : Ruby, Ruby on Rails, JavaScript, HTML, CSS, Bootstrap, SQL, Git, GitHub and Heroku.
 - I have a 10-year experience in Finance (Project & Structured Finance, Financial Modeling).
 - Deep interest in analytical thinking and solving complex problems. 
-- I'm currently learning Javascript, React, Next.js and Node.js.
+- I'm currently learning Javascript, React, Next.js, Node.js and Ruby on Rails.
 
 ### 📫 How to reach me
 - Connect with me on LinkedIn : www.linkedin.com/in/lorry-brossard
